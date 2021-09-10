@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.top-item {
+  display: flex;
+
+}
+
+.top {
+  border-bottom: 1px solid black;
+  width: 300px;
+  text-align: center;
+}
+
+.top-nav{
+  text-align: center;
+  padding: 4px 6px;
+  border: 1px solid white;
+  background-color: brown;
+  color: white;
+}
+
+.mid-item{
+  width: 300px;
+  line-height: 50px;
+  text-align:left;
+  display: flex;
+  border-bottom: 1px solid grey;
+}
+
+.mid-week-check{
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
